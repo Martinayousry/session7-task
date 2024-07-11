@@ -1,0 +1,25 @@
+h1 {
+  color: green;
+}
+p {
+  align-items: center;
+  text-align: center;
+}
+.example {
+  color: orangered;
+  align-items: center;
+  text-align: center;
+  font-size: large;
+}
+.content {
+  background-color: rgb(146, 217, 217);
+}
+table {
+  width: 500px;
+  margin-top: 30px;
+  background-color: lightgray;
+}
+.video {
+  text-align: center;
+  margin-top: 70px;
+}
